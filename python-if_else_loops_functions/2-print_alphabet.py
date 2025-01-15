@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for number in range(97, 122):
-    print(chr(number), end="")
+for letter in range(ord('a'), ord('z') + 1):
+    print(chr(letter), end="")

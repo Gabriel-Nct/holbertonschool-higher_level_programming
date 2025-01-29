@@ -80,5 +80,5 @@ class Rectangle:
         else:
             rectangle_to_print = ""
             for _ in range(self.__height):
-                rectangle_to_print += "#" * self.__width + "\n"
+                rectangle_to_print += "#" * self.__width
             return rectangle_to_print

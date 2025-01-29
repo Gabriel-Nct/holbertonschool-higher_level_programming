@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""Module 2-Rectangle: Definition of the Rectangle class.
+"""Module 3-Rectangle: Definition of the Rectangle class.
 
 This module is class Rectangle that defines a rectangle
-by: (based on 1-rectangle.py)
+by: (based on 2-rectangle.py)
 
 """
 

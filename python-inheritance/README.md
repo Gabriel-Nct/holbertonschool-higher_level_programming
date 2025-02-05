@@ -11,10 +11,8 @@ By the end of this project, you will be able to explain key inheritance concepts
 
 Here are some useful materials to deepen your understanding:  
 
-- 📖 [Inheritance](https://example.com)  
-- 📖 [Multiple inheritance](https://example.com)  
-- 📖 [Inheritance in Python](https://example.com)  
-- 📖 [Learn to Program 10: Inheritance Magic Methods](https://example.com)  
+- 📖 [Inheritance](https://www.geeksforgeeks.org/inheritance-in-python/)  
+- 📖 [Multiple inheritance](https://www.programiz.com/python-programming/multiple-inheritance)
 
 ---
 

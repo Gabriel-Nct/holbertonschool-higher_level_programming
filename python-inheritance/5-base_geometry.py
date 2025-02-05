@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 """
-Geometry module 
+Geometry module : Definiton of the base geometry class
+This module is class BaseGeometry that defines a Base Geometry.
 """
 
 
 class BaseGeometry:
     """
-    Geometry class 
+    an emplty class called BaseGeometry
     """
     pass

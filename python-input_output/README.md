@@ -162,11 +162,6 @@ python3 -m doctest ./tests/*
     ├── 📄 10-student.py
     ├── 📄 11-student.py
     ├── 📄 12-pascal_triangle.py
-    ├── 📂 tests
-    │   ├── 📄 test_0-read_file.txt
-    │   ├── 📄 test_1-write_file.txt
-    │   ├── 📄 test_2-append_write.txt
-    │   ├── ...
     └── 📄 README.md
 ```
 ## 🤝 Contributing
